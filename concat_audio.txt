@@ -1,0 +1,6 @@
+file 'C:\Users\HP\.gemini\antigravity\scratch\razorguard\temp_ch_1_padded.wav'
+file 'C:\Users\HP\.gemini\antigravity\scratch\razorguard\temp_ch_2_padded.wav'
+file 'C:\Users\HP\.gemini\antigravity\scratch\razorguard\temp_ch_3_padded.wav'
+file 'C:\Users\HP\.gemini\antigravity\scratch\razorguard\temp_ch_4_padded.wav'
+file 'C:\Users\HP\.gemini\antigravity\scratch\razorguard\temp_ch_5_padded.wav'
+file 'C:\Users\HP\.gemini\antigravity\scratch\razorguard\temp_ch_6_padded.wav'
